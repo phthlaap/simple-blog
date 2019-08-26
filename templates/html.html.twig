@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Webpage</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+{#    <link rel="stylesheet" href="https://stackedit.io/style.css" />#}
+
+    <style>
+    {% include 'css/stackedit-io.style.css' %}
+    {% include 'css/style.css' %}
+    </style>
+</head>
+<body>
+
+{{ navigation|raw }}
+
+{{ content|raw }}
+</body>
+</html>

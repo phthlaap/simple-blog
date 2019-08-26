@@ -1,0 +1,8 @@
+{
+    "name": "thanhlap.pham/blog",
+    "require": {
+        "react/http": "0.8.4",
+        "erusev/parsedown": "^1.7",
+        "twig/twig": "^2.0"
+    }
+}
