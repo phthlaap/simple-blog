@@ -1,0 +1,18 @@
+<div class="stackedit__html"><h1 id="how-to-run-drupal-8-with-docker---0.0.1">How to run Drupal 8 with Docker - 0.0.1</h1>
+<p>After 2 month probation, I decided to leave this company because I feel not good in this environment. In this 2 month I research about Docker and apply to the project, the project run Drupal 8 and I’m using Docker to create development and staging environment. So I will write this article to share about that.</p>
+<h2 id="why-docker">Why Docker?</h2>
+<p>Just do search, Google will return many reason to use Docker, there are some refer links:<br>
+<a href="https://www.linode.com/docs/applications/containers/when-and-why-to-use-docker/">https://www.linode.com/docs/applications/containers/when-and-why-to-use-docker/</a><br>
+<a href="https://runnable.com/docker/why-use-docker">https://runnable.com/docker/why-use-docker</a></p>
+<p>But, the advantages I see after I use Docker are:</p>
+<ul>
+<li>We can share the development environment between many member. We will save time to setup environment for another member join to my project, just run only one command line then we have the same environment:</li>
+</ul>
+<pre class=" language-bash"><code class="prism  language-bash">docker-compose up -d
+</code></pre>
+<ul>
+<li>Similarly, we can install the project to dev or staging server quickly with the command about.</li>
+<li>We will never take time to fix the conflict between PHP 5 or PHP 7 if we have 2 project need to work in one machine.</li>
+<li>Imagine, if your project need to connect to elasticsearch server, you don’t want take time to install it direct into your machine or just one a quick test, I think Docker is good for this case.</li>
+</ul>
+</div>
