@@ -38,7 +38,7 @@ $server = new Server(function (ServerRequestInterface $request) use ($twig, $mar
     $body
   );
 });
-$socket = new \React\Socket\Server('127.0.0.1:9991', $loop);
+$socket = new \React\Socket\Server('0.0.0.0:9991', $loop);
 $server->listen($socket);
 echo 'Listening on ' . str_replace('tcp:', 'http:', $socket->getAddress()) . PHP_EOL;
 $loop->run();
