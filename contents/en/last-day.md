@@ -6,10 +6,10 @@ At the company before I worked for, I have experience at the same team size, the
 
 I remember went I decide to end my 7 years work for Kyanon Digital. I thought, with about 30 years working in my life, I must to change company at lead one time. It is a good experience.
 
-Ogilvy Vietnam have good working environment, good benefit, there are many good people in my team. Thanks everyone help me 
+Ogilvy Vietnam have good working environment, good benefit, there are many good people in my team. Thanks everyone help me have that experience moment.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODMzODA2MywtNjY2MzMzMTMzLC0yMD
-kyNjA5NjIxLC05ODIzMTUxNTcsMTY5MjA3MDk3MSwtMTg5NjYw
-NjY3MSwtMTE5ODE4MjY4Miw5MTIxNDUyMTAsNzMwOTk4MTE2XX
-0=
+eyJoaXN0b3J5IjpbLTE4NzM4OTA3MzAsLTY2NjMzMzEzMywtMj
+A5MjYwOTYyMSwtOTgyMzE1MTU3LDE2OTIwNzA5NzEsLTE4OTY2
+MDY2NzEsLTExOTgxODI2ODIsOTEyMTQ1MjEwLDczMDk5ODExNl
+19
 -->
